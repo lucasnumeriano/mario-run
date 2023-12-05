@@ -49,6 +49,23 @@ h1 {
     animation: clouds-animation 20s infinite linear;
 }
 
+.none {
+    display: none;
+}
+
+.open {
+    display: block;
+}
+
+.buttonRetry {
+    cursor: pointer;
+}
+
+.restartButton {
+    width: 50px;
+    height: 50px;
+}
+
 
 #refresh {
     margin-left: 750px;
