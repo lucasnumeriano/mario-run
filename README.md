@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto
 
-Este é um jogo simples no estilo do Mario Run desenvolvido apenas com HTML, CSS e JavaScript.
+Este é um jogo simples no estilo do Mario Run desenvolvido com o intuito de melhorar minhas habilidades em JavaScript.
 
 ## :memo: Licença
 
